@@ -15,5 +15,4 @@ French Backend Dev
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexyNau&show_icons=true&hide_border=false&title_color=336791&icon_color=f34f29&bg_color=161b22&text_color=c9d1d9&border_color=30363d#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexyNau&show_icons=true&hide_border=false&title_color=336791&icon_color=f34f29&bg_color=ffffff&text_color=24292f&border_color=30363d#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexyNau&show_icons=true&hide_border=false&title_color=336791&icon_color=f34f29&bg_color=20,161b22,2a1d19,161b22&text_color=c9d1d9&border_color=30363d)](https://github.com/anuraghazra/github-readme-stats)
